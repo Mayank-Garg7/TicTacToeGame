@@ -4,7 +4,9 @@
 
 Welcome to the Tic Tac Toe game project! This repository contains a classic two-player Tic Tac Toe game created using HTML, CSS, and JavaScript. This readme file provides information on how to play the game and offers insights into the project.
 
-![Tic Tac Toe Screenshot](tic_tac_toe_screenshot.png)
+![Screenshot 2023-09-23 151759](https://github.com/Mayank-Garg7/TicTacToeGame/assets/113042462/f5fa6843-db4d-46e1-b6d5-e8c3f89bfcaf)
+
+
 
 ## How to Play
 
@@ -35,12 +37,21 @@ Follow these steps to play the Tic Tac Toe game:
 5. **Winning the Game:**
    - The game ends when one player gets three of their symbols in a row, column, or diagonal.
    - A winning message is displayed to announce the winner.
+   - 
+![Screenshot 2023-09-23 154125](https://github.com/Mayank-Garg7/TicTacToeGame/assets/113042462/d7418bab-9fee-4f65-8162-663a170f1b0a)
+
 
 6. **Draw:**
    - If all cells are filled, and no player has won, the game is declared a draw.
+   - 
+![Screenshot 2023-09-23 154056](https://github.com/Mayank-Garg7/TicTacToeGame/assets/113042462/b205a413-e57d-49a3-b219-3e0d88d526d4)
+
 
 7. **Restart:**
    - If you want to play another round, click the "Restart" button to reset the game board.
+   - 
+![Screenshot 2023-09-23 151759](https://github.com/Mayank-Garg7/TicTacToeGame/assets/113042462/5634c24d-fe79-435b-aa78-210a29b5e0bd)
+
 
 ## Customization
 
